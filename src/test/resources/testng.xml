@@ -7,7 +7,7 @@
 
   <test name="Test1">
     <classes>
-      <!--<class name="ron.net.SampleTestNgTest"/>-->
+      <class name="ron.net.SampleTestNgTest"/>
       <class name="ron.net.MenuVerify"/>
     </classes>
   </test>  
